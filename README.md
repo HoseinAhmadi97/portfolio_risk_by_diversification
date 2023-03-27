@@ -5,5 +5,3 @@ TSE site: http://www.tsetmc.com
 
 Portfolio variance formula:  https://faculty.washington.edu/ezivot/econ424/portfolioTheoryMatrix.pdf
 
-diversification effect:
-  <img src="https://education.rask.com.au/wp-content/uploads/sites/4/2020/01/graph-of-undiversifiable-risk-and-diversification-1024x658.png">
